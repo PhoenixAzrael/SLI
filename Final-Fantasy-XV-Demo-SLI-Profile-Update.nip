@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Final Fantasy XV Windows Edition</ProfileName>
+    <Executeables>
+      <string>ffxv_s.exe</string>
+      <string>ffxv.exe</string>
+      <string>ffxv_u.exe</string>
+      <string>ffxv_ws.exe</string>
+      <string>ffxv_o.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10512198</SettingID>
+        <SettingValue>65792</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10512710</SettingID>
+        <SettingValue>672137237</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10512715</SettingID>
+        <SettingValue>257</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>NVIDIA predefined SLI mode on DirectX 10</SettingNameInfo>
+        <SettingID>271830722</SettingID>
+        <SettingValue>2</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>NVIDIA predefined number of GPUs to use on SLI rendering mode on DirectX 10</SettingNameInfo>
+        <SettingID>271834323</SettingID>
+        <SettingValue>4</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1895359496</SettingID>
+        <SettingValue>524293</SettingValue>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>
