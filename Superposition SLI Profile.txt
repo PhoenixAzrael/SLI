@@ -1,0 +1,26 @@
+Profile "Unigine: Superposition Benchmark"
+    ShowOn All
+    ProfileType Application
+    Executable "launcher.exe" FindFile="superposition.exe"
+    Executable "superposition.exe"
+    Setting ID_0x00a06946 = 0x088000f5
+    Setting ID_0x00a06946 = 0x0a0010f5 UserSpecified=true
+    Setting ID_0x00db3859 = 0x00000012
+    Setting ID_0x1033cec1 = 0x00000003
+    Setting ID_0x1033cec2 = 0x00000002
+    Setting ID_0x1033dcd2 = 0x00000004
+    Setting ID_0x1033dcd3 = 0x00000004
+    Setting ID_0x106d5cff = 0x00000000
+    Setting ID_0x1095def8 = 0x02c00005
+    Setting ID_0x10ecdb82 = 0x00000001
+    Setting ID_0x10f9dc81 = 0x00000011
+    Setting ID_0x10fd4c5f = 0x01f296c1
+    Setting ID_0x2014cc70 = 0x00000001
+    Setting ID_0x202dc432 = 0x00000012
+    Setting ID_0x20441369 = 0x00000001
+    Setting ID_0x20570fc6 = 0x00000001
+    Setting ID_0x209746c1 = 0x04080001
+    Setting ID_0x20992431 = 0x00000001
+    Setting ID_0x209fd306 = 0x0fc00008
+    Setting ID_0x20c1221e = 0x00000001
+EndProfile
