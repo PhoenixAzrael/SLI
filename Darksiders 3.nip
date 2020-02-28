@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Darksiders 3</ProfileName>
+    <Executeables>
+      <string>darksiders3.exe</string>
+      <string>darksiders3-win64-shipping.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>10512710</SettingID>
+        <SettingValue>134226161</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>NVIDIA predefined SLI mode on DirectX 10</SettingNameInfo>
+        <SettingID>271830722</SettingID>
+        <SettingValue>2</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>NVIDIA predefined number of GPUs to use on SLI rendering mode on DirectX 10</SettingNameInfo>
+        <SettingID>271834323</SettingID>
+        <SettingValue>2</SettingValue>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>
